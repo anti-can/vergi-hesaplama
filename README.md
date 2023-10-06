@@ -14,7 +14,7 @@ gcc main.c -o urun_fiyat_hesapla
 2. Derlendikten sonra, programı çalıştırabilirsiniz.
 ./urun_fiyat_hesapla
 
-3. Örnek Kullanım
+## Örnek Kullanım
 
 1. Programın düzgün çalışabilmesi için, bir C derleyicisinin yüklü ve çalışır durumda olması gerekmektedir.
 
@@ -40,7 +40,7 @@ Urunun son fiyati: 105.600
 
 
 
-## 4. Program, aşağıdaki başlık dosyalarını kullanmaktadır:
+## Program, aşağıdaki başlık dosyalarını kullanmaktadır:
 
 ```c
 #include <stdio.h>
