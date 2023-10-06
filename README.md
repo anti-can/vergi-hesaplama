@@ -1,5 +1,6 @@
 # Ürün Fiyatı Hesaplama Programı
-![Uygulama Resmi](Veegi_hesaplama_foto.png)
+![Uygulama Resmi](Vergi_hesaplama_foto.png)
+
 
 
 Bu program, kullanıcıdan bir ürünün kodunu ve fiyatını girmesini isteyen basit bir C programıdır. Ardından, girilen koda göre ürünün son fiyatını hesaplar ve kullanıcıya sunar.
@@ -13,7 +14,7 @@ gcc main.c -o urun_fiyat_hesapla
 2. Derlendikten sonra, programı çalıştırabilirsiniz.
 ./urun_fiyat_hesapla
 
-## 3. Örnek Kullanım
+3. Örnek Kullanım
 
 1. Programın düzgün çalışabilmesi için, bir C derleyicisinin yüklü ve çalışır durumda olması gerekmektedir.
 
