@@ -25,9 +25,11 @@ gcc main.c -o urun_fiyat_hesapla
 Kitap: 0
 Temel Gıda: 1
 Lüks: 2
+
 4. Program, girilen koda göre ürünün son fiyatını hesaplayacak ve ekranda gösterecektir.
 
 5. Eğer geçerli bir kod girilmezse, program bir hata mesajı gösterecek ve çıkacaktır.
+
 Örnek kullanım:
 Urunun kodunu giriniz
 Kitap :0 
